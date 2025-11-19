@@ -3,10 +3,10 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por **Java** e desenvolvimento Back-end.
 Atualmente estou focado em dominar o ecossistema **Spring** e construir aplicações sólidas e escaláveis.
 
-- 🔭 Atualmente estou trabalhando no meu portfólio com **Spring Boot**.
-- 📚 Estou estudando **Spring Data JPA, Security e APIs REST**.
-- 🎯 Objetivo: Minha primeira oportunidade como **Dev Java Júnior**.
-- 📍 Moro em **Cuiabá, MT**.
+Atualmente estou trabalhando no meu portfólio com **Spring Boot**.
+Estou estudando **Spring Data JPA, Security e APIs REST**.
+Objetivo: Minha primeira oportunidade como **Dev Java**.
+Moro em **Cuiabá, MT**.
 
 ---
 
@@ -21,4 +21,4 @@ Atualmente estou focado em dominar o ecossistema **Spring** e construir aplicaç
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/luiz-gustavo-do-carmo-silva-07767436b
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/luiz-gustavo-do-carmo-silva-07767436b
