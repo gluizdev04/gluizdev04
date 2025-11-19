@@ -5,8 +5,8 @@ Atualmente estou focado em dominar o ecossistema **Spring** e construir aplicaç
 
 Atualmente estou trabalhando no meu portfólio com **Spring Boot**.
 Estou estudando **Spring Data JPA, Security e APIs REST**.
+
 Objetivo: Minha primeira oportunidade como **Dev Java**.
-Moro em **Cuiabá, MT**.
 
 ---
 
