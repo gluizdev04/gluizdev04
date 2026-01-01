@@ -21,4 +21,4 @@ Objetivo: Minha primeira oportunidade como **Dev Java**.
 
 ### 📫 Contato
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/luiz-gustavo-do-carmo-silva-07767436b
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/luiz-gustavo-java
