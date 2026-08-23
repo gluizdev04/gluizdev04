@@ -3,7 +3,7 @@
 
 Formado em Análise e Desenvolvimento de Sistemas. Desenvolvedor com foco na construção de aplicações Back-end robustas utilizando o ecossistema Java. 
 
-Atuo como Programador na Ábaco Tecnologia da Informação em projetos vinculados à Secretaria de Estado de Segurança Pública de Mato Grosso (SESP-MT). Especializado no ecossistema Spring Boot, com atuação em manutenção corretiva/evolutiva de sistemas Java modernos e legados, troubleshooting em produção, análise de causa raiz e integração com banco de dados Oracle. Contato prático com Angular e TypeScript no front-end. 
+Atuo como Programador Junior na Ábaco Tecnologia da Informação em projetos vinculados à Secretaria de Estado de Segurança Pública de Mato Grosso (SESP-MT). Especializado no ecossistema Spring Boot, com atuação em manutenção corretiva/evolutiva de sistemas Java modernos e legados, troubleshooting em produção, análise de causa raiz e integração com banco de dados Oracle. Contato prático com Angular e TypeScript no front-end. 
 
 Meu foco principal de desenvolvimento está na arquitetura de APIs RESTful, versionamento estrutural de banco de dados e aplicação de boas práticas de engenharia de software (Clean Code e SOLID).
 
